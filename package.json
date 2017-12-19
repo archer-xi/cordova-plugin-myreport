@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-myreport",
+  "version": "1.1.0",
+  "description": "test cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-myreport",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archer-xi/cordova-plugin-myreport.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "myreport",
+    "cordova-ios"
+  ],
+  "bugs": {
+    "url": "https://github.com/archer-xi/cordova-plugin-myreport/issues"
+  },
+  "author": "archer.xi",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/archer-xi/cordova-plugin-myreport#readme"
+}
